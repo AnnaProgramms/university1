@@ -25,10 +25,11 @@ def strcounter(s):
 s = 'aaabbc'
 strcounter(s)
 
-print('Hello1')
+print('Второй коммит')
 
-
-#git config --global user.name "anna" - задать имя конфигурации
-# q-выйти
+# git config --global user.name "anna" - задать имя конфигурации
+# git config --global user.email "anna"
+# q - выйти
 # git init - инициализация проекта
+# git add . - добавить под коммит все новые файлы
 # git commit -m 'первый коммит'
