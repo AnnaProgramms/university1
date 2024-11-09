@@ -34,3 +34,4 @@ print('Второй коммит')
 # git add . - добавить под коммит все новые файлы
 # git commit -m 'первый коммит'
 # git branch origin main - 'делает главную ветку main
+# git push -u origin main
