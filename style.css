@@ -12,3 +12,9 @@ h1 {
     font-size:50px;
 }
 
+.new_paragraph{
+    font-style:oblique;
+    font-size:24px;
+    text-align:center;
+    text-shadow: 1px 1px 1px green;
+}
